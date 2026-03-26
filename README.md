@@ -15,7 +15,7 @@ This creates a hidden folder (`.flstudio_wine`) that acts as our FL Studio's C: 
 ```bash
 WINEPREFIX=~/.flstudio_wine winecfg
 ```
-*(In the window that opens, make sure the Windows version is set to **Windows 10** and click Apply).*
+*(In the window that opens, make sure the Windows version is set to **Windows 11** and click Apply).*
 
 **3. Install Windows fonts:**
 This prevents invisible or glitchy text in the UI.
