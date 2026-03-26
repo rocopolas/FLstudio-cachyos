@@ -1,6 +1,6 @@
 # 🎹 Installation Guide: FL Studio 21 on CachyOS (Wine + Pipewire + WineASIO)
 
-his repository provides a battle-tested workflow for running FL Studio 21 on CachyOS (Arch-based Linux) with near-native performance. 
+This repository provides a battle-tested workflow for running FL Studio 21 on CachyOS (Arch-based Linux) with near-native performance. 
 
 ### Phase 1: Preparing the Ground
 It's crucial not to mix FL Studio with your Linux system files. We are going to create its own isolated "Windows" environment.
